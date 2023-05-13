@@ -1,0 +1,10 @@
+{
+	"name": "read-x",
+	"version": "0.0.1",
+	"main": "index.js",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"ext:pack": "zip -r build/extension.zip ./extension"
+	}
+}
